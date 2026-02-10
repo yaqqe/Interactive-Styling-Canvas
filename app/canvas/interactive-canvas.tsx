@@ -338,7 +338,7 @@ export default function InteractiveCanvas() {
   )
 
   return (
-    <main>
+    <main className="canvas-page">
       <header className="frame">
         <h1 className="frame__title">Interactive Styling UI</h1>
         <a
